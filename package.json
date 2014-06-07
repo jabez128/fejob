@@ -1,0 +1,26 @@
+{
+  "name": "fejob",
+  "version": "0.0.1",
+  "description": "fejob is a node command-line tool help you find and publish a front-end job",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jabez128/fejob.git"
+  },
+  "keywords": [
+    "node",
+    "command-line",
+    "front-end",
+    "job",
+    "npm"
+  ],
+  "author": "jabez zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabez128/fejob/issues"
+  },
+  "homepage": "https://github.com/jabez128/fejob"
+}
