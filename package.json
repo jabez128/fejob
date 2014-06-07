@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "fejob is a node command-line tool help you find and publish a front-end job",
   "main": "index.js",
+  "bin":{
+  "fejob": "./bin/fejob"
+  },
   "scripts": {
     "test": "npm test"
   },
